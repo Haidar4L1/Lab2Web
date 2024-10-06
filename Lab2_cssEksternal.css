@@ -1,5 +1,5 @@
 nav {
-background: #20A759;
+background: #FD8B51;
 color:#fff;
 padding: 10px;
 }
@@ -10,12 +10,12 @@ padding:10px 20px;
 }
 nav .active,
 nav a:hover {
-background: #0B6B3A
+background: #FD8B51;  
 }
 /* ID Selector */
 #intro {
-  background: #418fb1;
-  border: 1px solid #099249;
+  background: #001F3F;
+  border: 1px solid #FD8B51;
   min-height: 100px;
   padding: 10px;
   }
